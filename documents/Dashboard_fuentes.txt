@@ -1,0 +1,32 @@
+K'IIN DATA — Datostada MX 2026 — Dashboard
+Nota de verificación. No sustituye el libro Tableau ni el PDF.
+
+Archivos del entregable
+- documents/Dashboard_KIIN_Data.twbx
+- documents/Dashboard_KIIN_Data.pdf
+
+Dentro del .twbx
+- Dashboard_KIIN_Data.twb
+- Data/municipios_yucatan_2018_2023.csv
+  Copia exacta de data/processed/municipios_yucatan_2018_2023.csv (106 municipios).
+- Data/resumen_grupos.csv
+  Medianas publicadas: 10.18, 10.88 y 10.85 por 1,000; bajo peso 7.72%, 8.9% y 7.73%.
+  A un decimal, el hallazgo: 10.2, 10.9 y 10.8; 7.7%, 8.9% y 7.7%.
+- Data/excedencias_por_grupo.csv
+  Suma de las banderas de la tabla municipal, por grupo y parámetro.
+  Con los tres grupos: coliformes 29, nitratos 12, arsénico 7, cadmio 0, cromo 4, plomo 0, mercurio 0, fluoruros 6.
+
+Ruta para quien verifica fuera del libro
+- /Users/a/Desktop/Kiin_Data/data/processed/municipios_yucatan_2018_2023.csv
+- data/processed/resumen_grupos.csv
+- data/processed/resumen_grupos_sin_pandemia.csv
+- data/processed/excedencias_por_parametro.csv
+- data/processed/fuentes.csv
+
+Si Tableau pide la ruta de un texto, señalar el CSV del mismo nombre dentro de Data/ en el paquete,
+o la ruta de data/processed en la carpeta de trabajo.
+No se incluye data/raw.
+
+Interacción del libro: un parámetro, Grupo de monitoreo, aplicado a las cinco vistas.
+Tableau Desktop no estaba instalado. El .twbx se escribió como XML de Tableau 18.1.
+Herramienta: asistente de IA en Cursor, sobre los CSV ya calculados. El hallazgo no se recalculó.

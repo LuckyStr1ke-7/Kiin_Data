@@ -1,0 +1,9 @@
+﻿parametro,nombre,limite,unidad,muestras_con_resultado,muestras_bajo_deteccion,muestras_con_excedencia,municipios_con_excedencia,pct_muestras_con_resultado
+COLI_FEC,Coliformes fecales,1.1,NMP/100 mL,286,212,74,29,78.1
+N_NO3,Nitratos (N),11.0,mg/L,302,1,14,12,82.5
+AS_TOT,Arsénico,0.025,mg/L,290,269,16,7,79.2
+CD_TOT,Cadmio,0.005,mg/L,326,326,0,0,89.1
+CR_TOT,Cromo total,0.05,mg/L,307,213,9,4,83.9
+PB_TOT,Plomo,0.01,mg/L,287,278,0,0,78.4
+HG_TOT,Mercurio,0.006,mg/L,325,310,0,0,88.8
+FLUORUROS_TOT,Fluoruros,1.5,mg/L,321,121,10,6,87.7

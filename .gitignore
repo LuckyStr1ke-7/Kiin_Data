@@ -1,0 +1,9 @@
+.venv/
+data/raw/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+.pdfrender/
+documents/_check.twb
+documents/_twbx_data/
